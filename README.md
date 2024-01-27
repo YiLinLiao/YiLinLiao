@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @YiLinLiao
+- 👋 Hi, I’m @YilinLiao
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Deep Learning
 - 💞️ I’m looking to collaborate on ...
